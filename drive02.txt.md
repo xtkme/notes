@@ -10,7 +10,7 @@ P2   When may you may park your vehicle on a loading zone?
 
 P3   When parking downhill on a steep road, what does the 'Road code' suggest that you should do?
 
-When parking downhill on a steep road: turn the front wheels towards the kerb; leave your car in reverse gear if it's manual or in park if it's automatic.``````
+```When parking downhill on a steep road: turn the front wheels towards the kerb; leave your car in reverse gear if it's manual or in park if it's automatic.```
 
 P4   When may you park your vehicle over a fire hydrant?
 
