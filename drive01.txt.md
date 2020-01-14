@@ -208,7 +208,8 @@ The maximum speed allowed on a 'good' road condition
 
 C35  (Question withdrawn)
 
-``````
+```
+```
 
 C36   If you are turning left at an intersection, you must give way to all vehicles coming towards you that are turning right. True or False?
 
