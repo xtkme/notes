@@ -60,7 +60,9 @@ It's the bus stop sign. You won't miss this one too.
 
 P10   You can stop or park your vehicle over a fire hydrant (fire plug) if someone stays with the vehicle who can move it. True or False?
 
-```True```
+```
+True
+```
 
 P11   What should you do when parking your vehicle next to the kerb when facing down a steep hill?
 
