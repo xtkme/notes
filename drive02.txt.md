@@ -26,9 +26,11 @@ P6   How close can you park your vehicle to an intersection where there are no b
 
 P7   What does this sign mean?
 
-```Picture of road markings and sign... ```
+```
+Picture of road markings and sign...
 
-```It's the parking space for disabled people. You can't miss it.```
+It's the parking space for disabled people. You can't miss it.
+```
 
 P8   Can you stop on a bus stop in a private motor vehicle?
 
@@ -36,9 +38,11 @@ P8   Can you stop on a bus stop in a private motor vehicle?
 
 P9   What does this sign mean?
 
-```Bus stop sign
+```
+Bus stop sign...
 
-It's the bus stop sign... You won't miss this one too.```
+It's the bus stop sign. You won't miss this one too.
+```
 
 P10   You can stop or park your vehicle over a fire hydrant (fire plug) if someone stays with the vehicle who can move it. True or False?
 
@@ -46,7 +50,9 @@ P10   You can stop or park your vehicle over a fire hydrant (fire plug) if someo
 
 P11   What should you do when parking your vehicle next to the kerb when facing down a steep hill?
 
-```When parking downhill on a steep road: turn the front wheels towards the kerb; leave your car in reverse gear if it's manual or in park if it's automatic. And of course, use the handbrake too.```
+```
+When parking downhill on a steep road: turn the front wheels towards the kerb; leave your car in reverse gear if it's manual or in park if it's automatic. And of course, use the handbrake too.
+```
 
 P12   You must NOT park on the right-hand side of the road. What is the exception to this rule?
 
@@ -54,6 +60,8 @@ P12   You must NOT park on the right-hand side of the road. What is the exceptio
 
 P13   What does this sign mean?
 
-```Parking sign
+```
+Parking sign
 
-Check the website, it's the sign allowing you to park no longer than 40 minutes on one time.```
+Check the website, it's the sign allowing you to park no longer than 40 minutes on one time.
+```
