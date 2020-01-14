@@ -2,7 +2,9 @@
 
 P1   What is the closest distance your vehicle may be parked to a vehicle entrance?
 
-```1 metre/s```
+```
+1 metre/s
+```
 
 P2   When may you may park your vehicle on a loading zone?
 
@@ -18,15 +20,21 @@ When parking downhill on a steep road: turn the front wheels towards the kerb; l
 
 P4   When may you park your vehicle over a fire hydrant?
 
-```Only if someone who can move the vehicle stays with it```
+```
+Only if someone who can move the vehicle stays with it
+```
 
 P5   How close can you park your vehicle to the approach side of a pedestrian crossing where no broken yellow lines have been marked?
 
-```6 metre/s```
+```
+6 metre/s
+```
 
 P6   How close can you park your vehicle to an intersection where there are no broken yellow lines have been marked?
 
-```6 metre/s```
+```
+6 metre/s
+```
 
 P7   What does this sign mean?
 
@@ -38,7 +46,9 @@ It's the parking space for disabled people. You can't miss it.
 
 P8   Can you stop on a bus stop in a private motor vehicle?
 
-```No```
+```
+No
+```
 
 P9   What does this sign mean?
 
@@ -60,7 +70,9 @@ When parking downhill on a steep road: turn the front wheels towards the kerb; l
 
 P12   You must NOT park on the right-hand side of the road. What is the exception to this rule?
 
-```On a one-way street```
+```
+On a one-way street
+```
 
 P13   What does this sign mean?
 
