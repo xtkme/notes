@@ -1,5 +1,7 @@
 ## Emergency Q
 
+https://www.nzta.govt.nz/resources/roadcode/theory-test-questions/emergency-questions.html
+
 E1   You are driving on a country road at night when your vehicle headlights suddenly go out. What is the safest thing to do?
 
 ```
