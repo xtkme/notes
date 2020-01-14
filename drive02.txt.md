@@ -26,9 +26,9 @@ P6   How close can you park your vehicle to an intersection where there are no b
 
 P7   What does this sign mean?
 
-```Picture of road markings and sign...
+```Picture of road markings and sign... ```
 
-It's the parking space for disabled people. You can't miss it.```
+```It's the parking space for disabled people. You can't miss it.```
 
 P8   Can you stop on a bus stop in a private motor vehicle?
 
