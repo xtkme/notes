@@ -6,11 +6,15 @@ P1   What is the closest distance your vehicle may be parked to a vehicle entran
 
 P2   When may you may park your vehicle on a loading zone?
 
-```You can park at any time for the purposes of unloading, but you must not leave your vehicle for more than the time displayed on the sign```
+```
+You can park at any time for the purposes of unloading, but you must not leave your vehicle for more than the time displayed on the sign.
+```
 
 P3   When parking downhill on a steep road, what does the 'Road code' suggest that you should do?
 
-```When parking downhill on a steep road: turn the front wheels towards the kerb; leave your car in reverse gear if it's manual or in park if it's automatic.```
+```
+When parking downhill on a steep road: turn the front wheels towards the kerb; leave your car in reverse gear if it's manual or in park if it's automatic.
+```
 
 P4   When may you park your vehicle over a fire hydrant?
 
