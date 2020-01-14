@@ -130,16 +130,21 @@ Any area the public have access, including streets, highways, riverbeds, beaches
 
 C22   A police officer can impound your car on the spot if you are caught driving while disqualified. True or False?
 
-```True```
+```
+True
+```
 
 C23   At an intersection what does a police officer's directions overrule?
 
-```Everything, give way rules, signs, traffic lights, etc
+```
+Everything, give way rules, signs, traffic lights, etc
 ```
 
 C24   You are turning right at traffic signals showing a red arrow pointing to the right. What should you do?
 
-```Every should get this correct```
+```
+Every should get this correct
+```
 
 C25   What does one or more yellow lights flashing at traffic signals mean?
 
@@ -149,7 +154,9 @@ Lights are not operated and you have to apply give way rules (just like there's 
 
 C26   At night, when MUST you always dip the headlights on your vehicle?
 
-```When following other cars. When cars coming toward you. When approaching the police on duty. When parked on the road side.```
+```
+When following other cars. When cars coming toward you. When approaching the police on duty. When parked on the road side.
+```
 
 C27   What is the speed limit for vehicles passing a school bus that has stopped to let children on or off?
 
@@ -165,7 +172,9 @@ Give way to oncoming traffic
 
 C29   What is the speed limit from the time you pass an Accident sign until you are past the crash site?
 
-```20 km/h```
+```
+20 km/h
+```
 
 C30   When coming up to a roundabout you must give way to all vehicles that will cross your path from your left. True or False?
 
@@ -203,36 +212,54 @@ C35  (Question withdrawn)
 
 C36   If you are turning left at an intersection, you must give way to all vehicles coming towards you that are turning right. True or False?
 
-```False, they must give way!```
+```
+False, they must give way!
+```
 
 C37   If you are going ‘straight’ through a roundabout, don't signal as you come up to the roundabout, only signal left as you pass the exit before the one you wish to take. True or False?
 
-```True```
+```
+True
+```
 
 C38   If you are under 20 the legal alcohol limit is zero. What does this mean?
 
-```You must not drink at all when driving```
+```
+You must not drink at all when driving
+```
 
 C39   When may you use the horn on your vehicle?
 
-```To warn other of your presence```
+```
+To warn other of your presence
+```
 
 C40   When does a police officer have the power to arrest you?
 
-```Lots of things. Read it perhaps.```
+```
+Lots of things. Read it perhaps.
+```
 
 C41   What must you do when you see blue and red flashing lights behind you?
 
-```Pull over and stop... he's coming to you for a reason, ugh!```
+```
+Pull over and stop... he's coming to you for a reason, ugh!
+```
 
 C42   Who may legally require you to give a blood sample?
 
-```A police officer```
+```
+A police officer
+```
 
 C43   What must you do when red lights are flashing at a railway level crossing?
 
-```Stop```
+```
+Stop
+```
 
 C44   When must you signal that you are turning to the right?
 
-```Always, 3 seconds before turning```
+```
+Always, 3 seconds before turning
+```
